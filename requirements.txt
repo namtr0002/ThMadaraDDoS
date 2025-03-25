@@ -1,0 +1,7 @@
+requests
+psutil
+aiohttp
+socks
+pyfiglet
+fake_useragent
+colorama
