@@ -5,3 +5,4 @@ socks
 pyfiglet
 fake_useragent
 colorama
+cloudscraper
